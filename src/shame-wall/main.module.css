@@ -1,0 +1,69 @@
+.h2 {
+    padding-left: 32px;
+    padding-top: 26px;
+}
+ 
+.p {
+    color: #B5B5C3;
+    padding-left: 32px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.input {
+    width: 300px;
+    height: 48px;
+    border-radius: 5px;
+    position: absolute;
+    top: 58px;
+    left: 497px;
+}
+
+.secondinput {
+    width: 300px;
+    height: 48px;
+    border-radius: 5px;
+    position: absolute;
+    top: 58px;
+    left: 897px;
+}
+
+.button {
+    width: 80px;
+    height: 34px;
+    border-radius: 6px;
+    background-color: #F64E60;
+    color: white;
+    border: #F64E60;
+    cursor: pointer;
+    position: absolute;
+    top: 64px;
+    left: 1300px;
+}
+
+.title {
+    color: #B5B5C3;
+    width: 1350px;
+    height: 43px;
+    background-color: #F3F6F9;
+    border-radius: 6px;
+    margin-left: 32px;
+    display: flex;
+    
+}
+
+.blackp {
+    width: 509px;
+    color: black;
+}
+
+.excuse {
+    width: 715px;
+}
+
+.count {
+    width: 358px;
+}
